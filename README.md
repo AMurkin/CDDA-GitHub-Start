@@ -17,3 +17,11 @@ Author: https://github.com/DracoGriffin
 ![](https://cdn.discordapp.com/attachments/365907426270117888/457341759031083008/step7_makenewbranch.png)
 1.  Make changes locally to files for the branch and after reviewing and detailing items, publish branch / update branch if already published. You can now go to https://github.com/CleverRaven/Cataclysm-DDA and there will be a new line asking if you'd like to make a Pull Request of your changes to be implemented in the main CDDA game
 ![](https://cdn.discordapp.com/attachments/365907426270117888/457342111436636171/step8_publishbranch.png)
+
+## What's next
+
+You can start looking through [this list of "Good First Issues"](https://github.com/CleverRaven/Cataclysm-DDA/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+First+Issue%22) as well as other [issues](https://github.com/CleverRaven/Cataclysm-DDA/issues), then secondly looking at [Cataclysm: Dark Days Ahead Projects](https://github.com/CleverRaven/Cataclysm-DDA/projects) to see if there's anything you can do, and lastly the [List of easy jobs](https://github.com/CleverRaven/Cataclysm-DDA/wiki/Want-to-help-with-development%3F-List-of-easy-jobs).
+
+There are some standards like [Code Style Guide](https://github.com/CleverRaven/Cataclysm-DDA/blob/master/doc/CODE_STYLE.md) and [Manual of style](https://github.com/CleverRaven/Cataclysm-DDA/blob/master/doc/MANUAL_OF_STYLE.md).
+
+Also I'd just suggest the whole [doc](https://github.com/CleverRaven/Cataclysm-DDA/tree/master/doc) folder.
