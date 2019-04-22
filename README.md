@@ -2,21 +2,21 @@
 Author: https://github.com/DracoGriffin
 
 1.  Make a GitHub account
-![](images/step1_makeaccount.png)
+<br/>![](images/step1_makeaccount.png)
 1.  Fork CleverRaven's master branch of CDDA
-![](images/step2_forkmainCDDA.png)
+<br/>![](images/step2_forkmainCDDA.png)
 1.  Verify your fork exists under your profile
-![](images/step3_verifypersonalfork.png)
+<br/>![](images/step3_verifypersonalfork.png)
 1.  Download and configure/sync GitHub Desktop with your new account
-![](images/step4_downloadgithubdesktop.png)
+<br/>![](images/step4_downloadgithubdesktop.png)
 1.  Before making new branches, ensure your master branch is up to date with CleverRaven's by temporarily changing the repository to from ***YourUserName*** to ***CleverRaven*** and **Pull** changes (do NOT Push, luckily you'll just get an error since you should not have privileges)
-![](images/step5_updatemasterbranch.png)
+<br/>![](images/step5_updatemasterbranch.png)
 1.  Change ***CleverRaven*** back to ***YourUserName*** after pulling successfully and now **Push** instead to make sure your master branch is up to date (helps avoid conflicts if you try to PR something later)
-![](images/step6_backtopersonalfork.png)
+<br/>![](images/step6_backtopersonalfork.png)
 1.  Make a new branch locally of your master fork on GitHub Desktop (sometimes makes weird commit errors) or on Github website
-![](images/step7_makenewbranch.png)
+<br/>![](images/step7_makenewbranch.png)
 1.  Make changes locally to files for the branch and after reviewing and detailing items, publish branch / update branch if already published. You can now go to https://github.com/CleverRaven/Cataclysm-DDA and there will be a new line asking if you'd like to make a Pull Request of your changes to be implemented in the main CDDA game
-![](images/step8_publishbranch.png)
+<br/>![](images/step8_publishbranch.png)
 
 ## What's next
 
