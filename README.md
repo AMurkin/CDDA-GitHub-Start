@@ -9,7 +9,7 @@ Author: https://github.com/DracoGriffin
 <br/>![](images/step3_verifypersonalfork.png)
 1.  Download and configure/sync GitHub Desktop with your new account
 <br/>![](images/step4_downloadgithubdesktop.png)
-1.  Before making new branches, ensure your master branch is up to date with CleverRaven's by temporarily changing the repository to from ***YourUserName*** to ***CleverRaven*** and **Pull** changes (do NOT Push, luckily you'll just get an error since you should not have privileges)
+1.  Before making new branches, ensure your master branch is up to date with CleverRaven's by temporarily changing the repository from ***YourUserName*** to ***CleverRaven*** and **Pull** changes (do NOT Push, luckily you'll just get an error since you should not have privileges)
 <br/>![](images/step5_updatemasterbranch.png)
 1.  Change ***CleverRaven*** back to ***YourUserName*** after pulling successfully and now **Push** instead to make sure your master branch is up to date (helps avoid conflicts if you try to PR something later)
 <br/>![](images/step6_backtopersonalfork.png)
