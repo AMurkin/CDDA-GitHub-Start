@@ -20,7 +20,7 @@ Author: https://github.com/DracoGriffin
 
 ## What's next
 
-You can start looking through [this list of "Good First Issues"](https://github.com/CleverRaven/Cataclysm-DDA/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+First+Issue%22) as well as other [issues](https://github.com/CleverRaven/Cataclysm-DDA/issues), then secondly looking at [Cataclysm: Dark Days Ahead Projects](https://github.com/CleverRaven/Cataclysm-DDA/projects) to see if there's anything you can do, and lastly the [List of easy jobs](https://github.com/CleverRaven/Cataclysm-DDA/wiki/Want-to-help-with-development%3F-List-of-easy-jobs).
+You can start looking through [this list of "Good First Issues"](https://github.com/CleverRaven/Cataclysm-DDA/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+First+Issue%22) as well as other [issues](https://github.com/CleverRaven/Cataclysm-DDA/issues), then secondly looking at [Cataclysm: Dark Days Ahead Projects](https://github.com/CleverRaven/Cataclysm-DDA/projects) to see if there's anything you can do, and lastly the [List of easy jobs](https://github.com/CleverRaven/Cataclysm-DDA/wiki/Help-with-development-(List-of-easy-jobs)).
 
 There are some standards like [Code Style Guide](https://github.com/CleverRaven/Cataclysm-DDA/blob/master/doc/CODE_STYLE.md) and [Manual of style](https://github.com/CleverRaven/Cataclysm-DDA/blob/master/doc/MANUAL_OF_STYLE.md).
 
